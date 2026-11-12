@@ -6,6 +6,7 @@
 
 ## Screenshot Tampilan Website
 
-![Tampilan Website Nazwa](hasil1.png)
-(hasil3.png)
-(hasil4.png)
+![Tampilan Website Nazwa]
+(Hasil1.png)
+(Hasil3.png)
+(Hasil4.png)
